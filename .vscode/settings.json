@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 13,
+    "editor.tabSize": 2,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.multiCursorModifier": "ctrlCmd"
+}
